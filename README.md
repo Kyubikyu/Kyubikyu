@@ -14,7 +14,7 @@
 
 ```typescript
 const Kyubikyu = {
-    pronouns: "He" | "Him",
+    pronouns: "He/Him",
     location: "🌍 Somewhere on Earth",
     currentFocus: "Building cool projects",
     learning: ["New Technologies", "Best Practices", "System Design"],
@@ -85,9 +85,11 @@ const Kyubikyu = {
   <a href="https://twitter.com/kyubikyu" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:kyubikyu@example.com">
+  <!-- Uncomment and update with your email
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  -->
 </p>
 
 ---
