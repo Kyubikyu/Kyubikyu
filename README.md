@@ -19,8 +19,8 @@
 
 | Langages | Front-End | Back-End | Outils |
 |-----------|------------|-----------|--------|
-| 🐍 Python | 🎨 HTML / CSS | ⚙️ Node.js (bases) | 🧩 Git / GitHub |
-| ☕ JavaScript | ⚡ React (en apprentissage) | 🧠 API REST (bases) | 🪶 VS Code |
+| 🐍 Python | 🎨 HTML / CSS | A venir | 🧩 Git / GitHub |
+| C# | ⚡ React (en apprentissage) | A venir | 🪶 VS Code |
 
 ---
 
